@@ -125,21 +125,21 @@ const functionName = (param1, param2, param3,...) => {
 }
 ```
 
-An extra note about parameters. When we use it in defining the function, like the first and second lines above, then it is called a `parameter`. However, when we use it in areaCircle(2), areaCircle(3), areaCircle(4) radius is now holding data. When it is holding data it is called an `agrument`
+An extra note about parameters. When we use it in defining the function, like the first and second lines above, then it is called a `parameter`. However, when we use it in areaCircle(2), areaCircle(3), areaCircle(4) radius is now holding data. When it is holding data it is called an `argument`
 
 ## Task 3
 1. Declare a function called `areaRectangle3` and assign it an anonomous function
 2. use `length, width` as parameter
-5. return the `area` of this rectangle
+3. return the `area` of this rectangle
 
 Remember `area = length x width`
 
-5. outside of the function, call the function with 2X3 as arguments
-6. log the results
-7. outside of the function, call the function with 3X4 as arguments
-8. log the results
-9. outside of the function, call the function with 4X5 as arguments
-10. log the results
+4. outside of the function, call the function with 2X3 as arguments
+5. log the results
+6. outside of the function, call the function with 3X4 as arguments
+7. log the results
+8. outside of the function, call the function with 4X5 as arguments
+9. log the results
 #
 
 ## Task 4
